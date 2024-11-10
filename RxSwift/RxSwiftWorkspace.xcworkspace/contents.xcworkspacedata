@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:RxSwiftScheduler/RxSwiftScheduler.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RxSwiftTextField/RxSwiftTextField.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RxSwiftTable/RxSwiftTable.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RxSwiftOperators/RxSwiftOperators.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RxSwiftObservables/RxSwiftObservables.xcodeproj">
+   </FileRef>
+</Workspace>
